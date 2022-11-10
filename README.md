@@ -1,4 +1,3 @@
-# <!DOCTYPE html>
 <HTML>
  <HEAD>
   <TITLE> New Document </TITLE>
